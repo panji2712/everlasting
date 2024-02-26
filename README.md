@@ -1,0 +1,2 @@
+# everlasting
+testnet on tea
